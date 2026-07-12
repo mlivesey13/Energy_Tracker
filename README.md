@@ -3,8 +3,6 @@
     <img src="https://github.com/mlivesey13/Energy_Tracker/tree/main/images/logos/logo_left.png" width="80" align="left">
   </a>
 
-https://github.com/mlivesey13/Energy_Tracker/tree/main/images#:~:text=T-,images,-README.md
-
   Energy Tracker
 
   <a href="https://github.com/mlivesey13/Energy_Tracker/tree/main/images/logos/logo_right.png" download>
