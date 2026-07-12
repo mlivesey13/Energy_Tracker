@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/energy-tracker-logo.png" alt="Energy Tracker Logo" width="200">
+  <img src="images/logo.png" alt="Logo" width="200">
 </p>
 
 # Energy Tracker
