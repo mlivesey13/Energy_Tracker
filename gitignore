@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# macOS junk
+.DS_Store
+
+# Excel output
+Energy_Bills/Energy_Tracker.xlsx
+
+# Generated graphs
+Energy_Bills/*.png
+
+# PDFs (optional)
+Energy_Bills/*.pdf
